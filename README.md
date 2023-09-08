@@ -9,8 +9,3 @@ I'm a Data Analyst/Analytics Engineer from Indonesia who always eager to learn f
 - 🥶 Throughout my career journey, I've worked at various fields of industry: B2B Adtech Company (StickEarn), EdTech Company (Ternak Uang), Fin-tech Company (Pintu). 
 - 🎒 You can learn more about me in my [Linkedin Profile](https://www.linkedin.com/in/as-sulthoni/). Let's make connection! I am happy to meet new Friends!
 
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=assulthoni&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
-
-</div>
